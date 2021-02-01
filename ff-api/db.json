@@ -1,0 +1,23 @@
+{
+  "equipes": [
+    {
+      "id": 1,
+      "nom": "PSG",
+      "adresse": "TOTO 75000 Paris",
+      "date": "12/08/1970"
+    },
+    {
+      "id": 2,
+      "nom": "Calais",
+      "adresse": "TOTO 62100 Calais"
+    }
+  ],
+  "joueurs": [
+    {
+      "id": 1,
+      "nom": "Neymar",
+      "nationalité": "Brazil",
+      "equipeId": 1
+    }
+  ]
+}
