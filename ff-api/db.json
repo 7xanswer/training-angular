@@ -10,6 +10,16 @@
       "id": 2,
       "nom": "Calais",
       "adresse": "TOTO 62100 Calais"
+    },
+    {
+      "id": 3,
+      "nom": "FC Barcelona",
+      "adresse": "TOTO 08016 Barcelona"
+    },
+    {
+      "id": 4,
+      "nom": "FC Test",
+      "adresse": "TOTO 9999 Test"
     }
   ],
   "joueurs": [
@@ -18,6 +28,19 @@
       "nom": "Neymar",
       "nationalité": "Brazil",
       "equipeId": 1
+    },
+    {
+      "id": 2,
+      "nom": "Messi",
+      "nationalité": "Argentine",
+      "naissance": "24/06/1987",
+      "equipeId": 3
+    },
+    {
+      "id": 3,
+      "nom": "Toto",
+      "nationalité": "Test",
+      "equipeId": 4
     }
   ]
 }
