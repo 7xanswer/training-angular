@@ -1,0 +1,40 @@
+{
+  "equipes": [
+    {
+      "id": 1,
+      "nom": "PSG",
+      "adresse": "TOTO 75000 Paris",
+      "date": "12/08/1970"
+    },
+    {
+      "id": 2,
+      "nom": "Calais",
+      "adresse": "TOTO 62100 Calais"
+    },
+    {
+      "id": 3,
+      "nom": "FC Barcelona",
+      "adresse": "TOTO 08016 Barcelona"
+    },
+    {
+      "id": 4,
+      "nom": "FC Test",
+      "adresse": "TOTO 9999 Test"
+    }
+  ],
+  "joueurs": [
+    {
+      "id": 1,
+      "nom": "Neymar",
+      "nationalité": "Brazil",
+      "equipeId": 1
+    },
+    {
+      "id": 2,
+      "nom": "Messi",
+      "nationalité": "Argentine",
+      "naissance": "24/06/1987",
+      "equipeId": 3
+    }
+  ]
+}
