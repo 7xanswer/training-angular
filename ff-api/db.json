@@ -35,12 +35,6 @@
       "nationalité": "Argentine",
       "naissance": "24/06/1987",
       "equipeId": 3
-    },
-    {
-      "id": 3,
-      "nom": "Toto",
-      "nationalité": "Test",
-      "equipeId": 4
     }
   ]
 }
